@@ -1,2 +1,2 @@
 # yolov11
-Implementation of classification of Leukocytes using Roboflow and YoloV11
+Implementação do yolov11 para classificação de leucocitos em fotos.
